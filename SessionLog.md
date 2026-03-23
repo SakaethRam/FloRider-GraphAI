@@ -1,4 +1,4 @@
-# FloRider AI – Development Session Log
+# <img width="40" height="40" alt="PHOENIX_FAV" src="https://github.com/user-attachments/assets/a09aafef-5361-45d2-9742-e917fbb2e32a" /> FloRider AI: Development Session Log
 
 ## Overview
 
