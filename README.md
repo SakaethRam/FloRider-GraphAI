@@ -1,4 +1,4 @@
-# FloRider AI
+# <img width="40" height="40" alt="PHOENIX_FAV" src="https://github.com/user-attachments/assets/a09aafef-5361-45d2-9742-e917fbb2e32a" /> FloRider • AI
 
 FloRider AI is a modular AI-powered data intelligence system designed to transform raw inputs into structured insights, graph representations, and entity-relationship models. The platform integrates large language models with deterministic preprocessing pipelines to enable reliable, domain-constrained analysis of datasets and tabular data.
 
