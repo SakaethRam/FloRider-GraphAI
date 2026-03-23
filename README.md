@@ -2,6 +2,8 @@
 
 FloRider AI is a modular AI-powered data intelligence system designed to transform raw inputs into structured insights, graph representations, and entity-relationship models. The platform integrates large language models with deterministic preprocessing pipelines to enable reliable, domain-constrained analysis of datasets and tabular data.
 
+<img width="1900" height="905" alt="Home" src="https://github.com/user-attachments/assets/77d9e89a-a0e8-4fc1-abe8-353dfbc5b25a" />
+
 
 ### [Visit: FloRider • AI ](https://florider-ai.netlify.app/home)
 ---
@@ -249,6 +251,8 @@ Inputs:
 
 Converts datasets into graph structures.
 
+<img width="1902" height="862" alt="Chat Graph" src="https://github.com/user-attachments/assets/60249006-394e-4b07-ab43-0550dfea40ae" />
+
 Input:
 
 * File (CSV, JSON, TXT)
@@ -262,6 +266,8 @@ Output:
 ### `#table`
 
 Converts tabular JSON data into ER models.
+
+<img width="1902" height="866" alt="Chat Table" src="https://github.com/user-attachments/assets/f02fad0c-e989-4e53-8865-ece69d94e07a" />
 
 Input:
 
