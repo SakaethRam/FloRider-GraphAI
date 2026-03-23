@@ -2,6 +2,8 @@
 
 FloRider AI is a modular AI-powered data intelligence system designed to transform raw inputs into structured insights, graph representations, and entity-relationship models. The platform integrates large language models with deterministic preprocessing pipelines to enable reliable, domain-constrained analysis of datasets and tabular data.
 
+
+### [Visit: FloRider • AI ](https://florider-ai.netlify.app/home)
 ---
 
 ## Overview
@@ -180,6 +182,8 @@ GraphModel includes:
 ## Guardrails
 
 The system enforces strict domain-specific constraints to ensure reliable and relevant outputs.
+
+<img width="1903" height="906" alt="Chat Hardrills" src="https://github.com/user-attachments/assets/556e8f8d-cf26-49dd-b7d8-06168fac5522" />
 
 ### Guardrails
 
