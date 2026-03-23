@@ -63,7 +63,7 @@ Used for rapid UI scaffolding and component structuring with a focus on layout a
 
 ---
 
-## 00:00 – 02:00 | LLM API Development
+## 06:00 – 08:00 | LLM API Development
 
 ### Objective
 
@@ -94,7 +94,7 @@ Build core LLM processing layer with file handling.
 
 ---
 
-## 02:00 – 04:00 | Graph Extraction Engine
+## 08:00 – 12:00 | Graph Extraction Engine
 
 ### Objective
 
@@ -124,7 +124,7 @@ Transform datasets into nodes and relationships.
 
 ---
 
-## 04:00 – 06:00 | Table → ER Graph Conversion
+## 13:00 – 16:00 | Table → ER Graph Conversion
 
 ### Objective
 
@@ -154,7 +154,7 @@ Convert structured table data into ER models.
 
 ---
 
-## 06:00 – 07:30 | Connector Layer Integration
+## 17:30 – 19:30 | Connector Layer Integration
 
 ### Objective
 
@@ -181,7 +181,7 @@ Efficient for generating clean TypeScript abstraction layers and ensuring type s
 
 ---
 
-## 07:30 – 09:00 | Debugging & Edge Case Handling
+## 20:30 – 21:00 | Debugging & Edge Case Handling
 
 ### Objective
 
@@ -211,7 +211,7 @@ Stabilize system and handle failures.
 
 ---
 
-## 09:00 – 19:00 | Refinement, Testing & Documentation
+## 21:00 – 23:00 | Refinement, Testing & Documentation
 
 ### Objective
 
