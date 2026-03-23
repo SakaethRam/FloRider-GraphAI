@@ -4,7 +4,7 @@
 
 This document outlines the structured development workflow followed during the initial build of FloRider AI. The session reflects a strategic use of multiple AI tools as **assistive accelerators**, while maintaining core architectural, logical, and integration decisions manually.
 
-**Session Duration:** ~26 hours (including breaks)
+**Session Duration:** ~26 hours (including breaks) ||
 **Timeline:** 21:00 – 23:00 (next day)
 
 ---
