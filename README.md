@@ -76,9 +76,9 @@ The system follows a modular service-oriented architecture with clear separation
 
 Instead of a monolithic endpoint, the system uses specialized APIs:
 
-* `/llm` for reasoning tasks
-* `/graph` for dataset transformation
-* `/table` for ER modeling
+* `#chat` for reasoning tasks
+* `#graph` for dataset transformation
+* `#table` for ER modeling
 
 This improves:
 
@@ -226,7 +226,7 @@ Processing includes:
 
 ## API Endpoints
 
-### `/llm`
+### `#chat`
 
 Handles:
 
@@ -241,7 +241,7 @@ Inputs:
 
 ---
 
-### `/graph`
+### `#graph`
 
 Converts datasets into graph structures.
 
@@ -255,7 +255,7 @@ Output:
 
 ---
 
-### `/table`
+### `#table`
 
 Converts tabular JSON data into ER models.
 
