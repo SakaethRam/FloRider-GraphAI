@@ -8,6 +8,11 @@ FloRider AI is a modular AI-powered data intelligence system designed to transfo
 ### [Visit: FloRider • AI ](https://florider-ai.netlify.app/home)
 ---
 
+## *Note
+To unlock the full functionality of FloRider AI, users must configure their API key using the BYOK (Bring Your Own Key) section available via the interface button. This enables the AI-powered features and ensures personalized, secure access to the underlying language models.
+
+---
+
 ## Overview
 
 FloRider AI provides three core capabilities:
